@@ -2,4 +2,5 @@ Bob
 Alice
 Sarah
 George
+Fred
 
